@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplicationRogueLike", "ConsoleApplicationRogueLike\ConsoleApplicationRogueLike.vcxproj", "{ACC462CC-736B-4FBE-AB8F-EFD12A8405AA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.vcxproj", "{35B72034-4E6F-4889-8F7F-CC6E58632C79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -18,5 +20,13 @@ Global
 		{ACC462CC-736B-4FBE-AB8F-EFD12A8405AA}.Release|Win32.Build.0 = Release|Win32
 		{ACC462CC-736B-4FBE-AB8F-EFD12A8405AA}.Release|x64.ActiveCfg = Release|x64
 		{ACC462CC-736B-4FBE-AB8F-EFD12A8405AA}.Release|x64.Build.0 = Release|x64
+		{35B72034-4E6F-4889-8F7F-CC6E58632C79}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35B72034-4E6F-4889-8F7F-CC6E58632C79}.Debug|Win32.Build.0 = Debug|Win32
+		{35B72034-4E6F-4889-8F7F-CC6E58632C79}.Debug|x64.ActiveCfg = Debug|x64
+		{35B72034-4E6F-4889-8F7F-CC6E58632C79}.Debug|x64.Build.0 = Debug|x64
+		{35B72034-4E6F-4889-8F7F-CC6E58632C79}.Release|Win32.ActiveCfg = Release|Win32
+		{35B72034-4E6F-4889-8F7F-CC6E58632C79}.Release|Win32.Build.0 = Release|Win32
+		{35B72034-4E6F-4889-8F7F-CC6E58632C79}.Release|x64.ActiveCfg = Release|x64
+		{35B72034-4E6F-4889-8F7F-CC6E58632C79}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
