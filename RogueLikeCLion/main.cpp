@@ -1,6 +1,9 @@
 #include <iostream>
+#include "DungeonGeneration/Room.h"
+#include "GameManager.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    GameManager gameManager;
+    gameManager.launch_game();
     return 0;
 }
