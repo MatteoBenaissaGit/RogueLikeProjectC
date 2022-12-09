@@ -19,4 +19,4 @@ add_executable(RogueLikeCLion main.cpp
         Character/Character.cpp
         Character/Character.h
         Character/Player.cpp
-        Character/Player.h)
+        Character/Player.h DungeonGeneration/Dungeon.cpp DungeonGeneration/Dungeon.h)

@@ -4,13 +4,17 @@
 
 #include "Room.h"
 #include <iostream>
+using namespace std;
 
-void Room::AddDoor() {
-
+void Room::AddDoor(Door door) {
+    doors.push_back(door);
 }
 
 void Room::DisplayChoices() {
-
+    cout << "Choose a door : " << endl;
+    for(Door door : doors){
+        cout << door.direction << endl;
+    }
 }
 
 void Room::CreateRoom() {
@@ -24,5 +28,6 @@ void Room::CreateRoom() {
 }
 
 Room::Room(){
+    srand(time(NULL));
     CreateRoom();
 }

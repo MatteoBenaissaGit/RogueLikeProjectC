@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/MBENAI~1/AppData/Local/JETBRA~1/CLION2~1.3/bin/ninja/win/ninja.exe"
+			"value" : "C:/Users/mbenaissa/AppData/Local/JetBrains/CLion 2022.3/bin/ninja/win/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",

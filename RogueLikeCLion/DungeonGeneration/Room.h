@@ -21,7 +21,7 @@ public :
     vector<Item> items;
     vector<Enemy> enemies;
     bool have_bed;
-    void AddDoor();
+    void AddDoor(Door);
     void DisplayChoices();
 private :
     void CreateRoom();

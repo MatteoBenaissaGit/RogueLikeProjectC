@@ -4,6 +4,6 @@
 
 #include "Door.h"
 
-Door::Door() : room_it_lead_to(new Room()) {
+Door::Door(){
 
 }
