@@ -11,7 +11,7 @@
 
 class GameManager {
 public :
-    Room &current_room;
+    Room current_room;
     Player player;
     void launch_game();
 };
